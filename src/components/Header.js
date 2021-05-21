@@ -1,9 +1,12 @@
 import LinkRow from './LinkRow'
+import Typography from '@material-ui/core/Typography';
 
 const Header = () => {
     return (
         <div className="Header">
-            <h1>Movie List</h1>
+            <Typography variant="h4" component="h1">
+                Movie List
+            </Typography>
             <LinkRow />
         </div>
     )
