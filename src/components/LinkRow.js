@@ -5,9 +5,9 @@ import ButtonGroup from '@material-ui/core/ButtonGroup';
 const LinkRow = () => {
     return (
         <ButtonGroup color="primary" aria-label="button group">
+            <Button>Plan to Watch</Button>
             <Button>Stats</Button>
-            <Button>About</Button>
-            <Button>Etc</Button>
+            {/* <Button>About</Button> */}
         </ButtonGroup>
     )
 }

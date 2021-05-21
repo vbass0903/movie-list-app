@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "poster_url": "./Memento_poster.jpg",
+      "title": "Memento",
+      "year": 2000
+    }
+  ]
+}

@@ -1,11 +1,11 @@
 import CategoryList from './CategoryList'
 import MovieRow from './MovieRow'
 
-const MovieTable = () => {
+const MovieTable = ({ inMovies }) => {
     return (
         <div className="MovieTable">
             <CategoryList />
-            <MovieRow />
+            <MovieRow inMovies={inMovies}/>
         </div>
     )
 }
