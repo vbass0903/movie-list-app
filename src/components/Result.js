@@ -1,14 +1,12 @@
 import Button from '@material-ui/core/Button';
 
-const Result = ({ attributes }) => {
-//attributes[3]: poster, title, year
-
+const Result = ({ result, onAdd }) => {
     return (
         <div className="Result">
-            <img src={attributes[0]} alt="Result poster"></img>
-            <h4>{attributes[1]}</h4>
-            <h4>{attributes[2]}</h4>
-            <Button onClick={() => { alert('clicked') }} color="default" variant="contained">Add</Button>
+            <img src={result.Poster} alt="Result poster"></img>
+            <h4>{result.Title}</h4>
+            <h4>{result.Year}</h4>
+            <Button onClick={() => onAdd(result.imdbID)} color="default" variant="contained">Add</Button>
         </div>
     )
 }

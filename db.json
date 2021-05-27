@@ -1,10 +1,283 @@
 {
-  "posts": [
+  "movies": [
     {
-      "id": 1,
-      "poster_url": "./Memento_poster.jpg",
-      "title": "Memento",
-      "year": 2000
+      "Title": "Memento Mori",
+      "Year": "2002",
+      "Rated": "N/A",
+      "Released": "N/A",
+      "Runtime": "15 min",
+      "Genre": "Short",
+      "Director": "José Roberto Torero",
+      "Writer": "José Roberto Torero",
+      "Actors": "Laura Cardoso, Paulo José, Carlos Mariano, Carlos Moreno",
+      "Plot": "Couple prepare their \"great voyage\" in all details, not forgetting the flowers, music and luggage.",
+      "Language": "Portuguese",
+      "Country": "Brazil",
+      "Awards": "5 wins.",
+      "Poster": "https://davidkoepp.com/wp-content/themes/blankslate/images/Movie%20Placeholder.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "52",
+      "imdbID": "tt0340251",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 1
+    },
+    {
+      "Title": "Memento",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "25 May 2001",
+      "Runtime": "113 min",
+      "Genre": "Mystery, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan (screenplay), Jonathan Nolan (short story \"Memento Mori\")",
+      "Actors": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano, Mark Boone Junior",
+      "Plot": "A man with short-term memory loss attempts to track down his wife's murderer.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 57 wins & 57 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "8.4",
+      "imdbVotes": "1,143,794",
+      "imdbID": "tt0209144",
+      "Type": "movie",
+      "DVD": "01 Mar 2017",
+      "BoxOffice": "$25,544,867",
+      "Production": "Team Todd, I Remember Productions, Llc, Newmarket Capital Group",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 2
+    },
+    {
+      "Title": "Hereditary",
+      "Year": "2018",
+      "Rated": "R",
+      "Released": "08 Jun 2018",
+      "Runtime": "127 min",
+      "Genre": "Drama, Horror, Mystery, Thriller",
+      "Director": "Ari Aster",
+      "Writer": "Ari Aster",
+      "Actors": "Alex Wolff, Gabriel Byrne, Toni Collette, Milly Shapiro",
+      "Plot": "A grieving family is haunted by tragic and disturbing occurrences.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "45 wins & 107 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.3",
+      "imdbVotes": "251,467",
+      "imdbID": "tt7784604",
+      "Type": "movie",
+      "DVD": "21 Aug 2018",
+      "BoxOffice": "$44,069,456",
+      "Production": "PalmStar Media",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 3
+    },
+    {
+      "Title": "Spirited Away",
+      "Year": "2001",
+      "Rated": "PG",
+      "Released": "28 Mar 2003",
+      "Runtime": "125 min",
+      "Genre": "Animation, Adventure, Family, Fantasy, Mystery",
+      "Director": "Hayao Miyazaki",
+      "Writer": "Hayao Miyazaki",
+      "Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
+      "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "Language": "Japanese, English",
+      "Country": "Japan, USA",
+      "Awards": "Won 1 Oscar. Another 57 wins & 31 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "8.6",
+      "imdbVotes": "670,001",
+      "imdbID": "tt0245429",
+      "Type": "movie",
+      "DVD": "19 Dec 2019",
+      "BoxOffice": "$13,750,644",
+      "Production": "Walt Disney Pictures, Tokuma Shoten, Studio Ghibli",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 4
+    },
+    {
+      "Title": "Minari",
+      "Year": "2020",
+      "Rated": "PG-13",
+      "Released": "12 Feb 2021",
+      "Runtime": "115 min",
+      "Genre": "Drama",
+      "Director": "Lee Isaac Chung",
+      "Writer": "Lee Isaac Chung",
+      "Actors": "Alan S. Kim, Yeri Han, Noel Cho, Steven Yeun",
+      "Plot": "A Korean family starts a farm in 1980s Arkansas.",
+      "Language": "Korean, English",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 105 wins & 211 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWEzOTNjNDgtZDhhYS00ODAxLWIzNGMtYjU3OGZhYmI3ZDU4XkEyXkFqcGdeQXVyMTAzNjk5MDI4._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.5",
+      "imdbVotes": "43,457",
+      "imdbID": "tt10633456",
+      "Type": "movie",
+      "DVD": "26 Feb 2021",
+      "BoxOffice": "$2,964,816",
+      "Production": "Plan B Entertainment",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 5
+    },
+    {
+      "Title": "Portrait of a Lady on Fire",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "14 Feb 2020",
+      "Runtime": "122 min",
+      "Genre": "Drama, Romance",
+      "Director": "Céline Sciamma",
+      "Writer": "Céline Sciamma",
+      "Actors": "Noémie Merlant, Adèle Haenel, Luàna Bajrami, Valeria Golino",
+      "Plot": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+      "Language": "French, Italian",
+      "Country": "France",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 57 wins & 152 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "95/100"
+        }
+      ],
+      "Metascore": "95",
+      "imdbRating": "8.1",
+      "imdbVotes": "70,955",
+      "imdbID": "tt8613070",
+      "Type": "movie",
+      "DVD": "03 Apr 2020",
+      "BoxOffice": "$3,759,854",
+      "Production": "Hold Up Films, arte France Cinéma",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 6
+    },
+    {
+      "Title": "The Lighthouse",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "01 Nov 2019",
+      "Runtime": "109 min",
+      "Genre": "Drama, Fantasy, Horror, Mystery",
+      "Director": "Robert Eggers",
+      "Writer": "Robert Eggers, Max Eggers",
+      "Actors": "Robert Pattinson, Willem Dafoe, Valeriia Karaman, Logan Hawkes",
+      "Plot": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "Language": "English",
+      "Country": "Canada, USA, Brazil",
+      "Awards": "Nominated for 1 Oscar. Another 33 wins & 133 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.5",
+      "imdbVotes": "152,502",
+      "imdbID": "tt7984734",
+      "Type": "movie",
+      "DVD": "18 Oct 2019",
+      "BoxOffice": "$10,867,104",
+      "Production": "Harbor Picture Company, A24, Topsail Entertainment, RT Features",
+      "Website": "N/A",
+      "Response": "True",
+      "id": 7
     }
   ]
 }
