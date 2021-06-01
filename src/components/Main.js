@@ -95,104 +95,22 @@ const Main = () => {
         })
         setMovies([...movies, data])
       })
+      setResults(results.filter((movie) => movie.imdbID !== movieID))
     }
+
+    const deleteMovie = async (movieID) => {
+      await fetch(`http://localhost:5000/movies/${movieID}`, {
+        method: 'DELETE'
+        })
+        setMovies(movies.filter((movie) => movie.imdbID !== movieID))
+      }
 
     return (
         <div className="Main">
-            <SearchArea onSearch={search} inResults={results} onChange={textFieldChange} onAdd={getMovieInfo}/>
-            <MovieTable inMovies={movies}/>
+            <SearchArea inResults={results} onChange={textFieldChange} onAdd={getMovieInfo} onSearch={search} />
+            <MovieTable inMovies={movies} onDelete={deleteMovie}/>
         </div>
     )
 }
 
 export default Main
-
-
-    // const search = async () => {
-    //   console.log("clicked")
-    //   if (searchText.length > 0) {
-    //     const res = await fetch("https://imdb8.p.rapidapi.com/auto-complete?q=" + searchText, {
-    //       "method": "GET",
-    //       "headers": {
-    //           "x-rapidapi-key": APIKEY,
-    //           "x-rapidapi-host": "imdb8.p.rapidapi.com"
-    //       }
-    //     })
-    //     .then((response) => response.json())
-    //     .then((data) => {
-    //       const searchResults = data.d.map(searchResult => filterResults(searchResult))
-    //       setResults(searchResults)
-    //     })
-    //   }
-    //   else {
-    //     setResults([])
-    //   }
-    // }
-
-    // const getDirector = async (movieID) => {
-    //   const res = await fetch("https://imdb8.p.rapidapi.com/title/get-full-credits?tconst=" + movieID, {
-    //     "method": "GET",
-    //     "headers": {
-    //       "x-rapidapi-key": APIKEY,
-    //       "x-rapidapi-host": "imdb8.p.rapidapi.com"
-    //     }
-    //   })
-    //   .then((response) => response.json())
-    //   .then((data) => {
-    //     console.log(data.crew.director[0].name)
-    //     return (data.crew.director[0].name)
-    //   })
-    // }
-
-    // const getGenre = async (movieID) => {
-    //   const res = await fetch("https://imdb8.p.rapidapi.com/title/get-genres?tconst=" + movieID, {
-    //     "method": "GET",
-    //     "headers": {
-    //       "x-rapidapi-key": APIKEY,
-    //       "x-rapidapi-host": "imdb8.p.rapidapi.com"
-    //     }
-    //   })
-    //   .then((response) => response.json())
-    //   .then((data) => {
-    //     console.log(data)
-    //     return (data)
-    //   })
-    // }
-
-        // const filterResults = async (searchResult) => {
-
-
-
-      
-
-    //   // if (newDirector === undefined) {
-    //   //   newDirector = "Unknown"
-    //   // }
-    //   // if (newGenre === undefined) {
-    //   //   newGenre = "Unknown"
-    //   // }
-
-    //   let movie = {
-    //     poster: searchResult.i,
-    //     id: searchResult.id,
-    //     title: searchResult.l,
-    //     year: searchResult.y,
-    //     director: "TEST",
-    //     genre: "TEST",
-    //     actors: searchResult.s
-    //   }
-
-
-
-    //   if (movie.poster === undefined) {
-    //     movie.poster = {
-    //       height: 1600,
-    //       imageUrl: 'https://davidkoepp.com/wp-content/themes/blankslate/images/Movie%20Placeholder.jpg',
-    //       width: 1200
-    //     }
-    //   }
-    //   if (movie.year === undefined) {
-    //     movie.year = 'Unknown'
-    //   }
-    //   return movie
-    // }

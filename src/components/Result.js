@@ -6,7 +6,7 @@ const Result = ({ result, onAdd }) => {
             <img src={result.Poster} alt="Result poster"></img>
             <h4>{result.Title}</h4>
             <h4>{result.Year}</h4>
-            <Button onClick={() => onAdd(result.imdbID)} color="default" variant="contained">Add</Button>
+            <Button onClick={() => onAdd(result.imdbID)} color="primary" variant="contained">Add</Button>
         </div>
     )
 }

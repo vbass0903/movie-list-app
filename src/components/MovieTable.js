@@ -1,11 +1,11 @@
 import CategoryList from './CategoryList'
 import MovieRow from './MovieRow'
 
-const MovieTable = ({ inMovies }) => {
+const MovieTable = ({ inMovies, onDelete }) => {
     return (
         <div className="MovieTable">
             <CategoryList />
-            <MovieRow inMovies={inMovies}/>
+            <MovieRow inMovies={inMovies} onDelete={onDelete}/>
         </div>
     )
 }

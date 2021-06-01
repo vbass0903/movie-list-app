@@ -15,15 +15,16 @@
   padding-right: 5%;
   padding-top: 1%;
   padding-bottom: 1%;
-  background: rgb(131,58,180);
-  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,31,31,1) 40%, rgba(252,176,69,1) 100%);
-	/* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  
+  /* background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,31,31,1) 40%, rgba(252,176,69,1) 100%); */
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
-	animation: gradient 15s ease infinite; */
+	animation: gradient 15s ease infinite;
   color: white;
 }
 
-/* @keyframes gradient {
+@keyframes gradient {
 	0% {
 		background-position: 0% 50%;
 	}
@@ -33,11 +34,11 @@
 	100% {
 		background-position: 0% 50%;
 	}
-} */
+}
 
 .SearchArea {
   border: 2px solid black;
-  width: 40%;
+  width: 30%;
   position: sticky;
   top: 0;
   align-self: flex-start;
@@ -62,56 +63,75 @@
   align-items: center;
   padding: 5px;
   /* background-color: darkgrey; */
+  
   background-color: #ffffff;
-  background-image: url("https://www.transparenttextures.com/patterns/arches.png");
+  background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 }
 .Result > img {
-  width: 113px;
-  height: 166px;
+  width: 90px;
+  height: 134px;
 }
 
 .Result > h4 {
-  width: 40px;
+  width: 100px;
 }
 
 .MovieTable {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   width: 70%;
 }
 
 .Movie {
   border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   align-items: center;
   padding: 5px;
   background-color: #ffffff;
-background-image: url("https://www.transparenttextures.com/patterns/az-subtle.png");
-/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+  background-image: url("https://www.transparenttextures.com/patterns/az-subtle.png");
 }
 
 .Movie > img {
-  min-width: 113px;
-  min-height: 166px;
-  max-width: 113px;
-  max-height: 166px;
+  min-height: 237px;
+  max-height: 237px;
+  max-width: 160px;
+  min-width: 160px;
+  margin-right: 10px;
 }
 
 .Movie > h4 {
-  width: 8%;
-  height: 8%;
+  max-width: 160px;
+  min-width: 160px;
+}
+
+.DataList > h4 {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  max-width: 160px;
+  min-width: 160px;
+}
+
+.DeleteButton {
+  margin-left: 50px;
 }
 
 .CategoryList {
+  top: 0;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   color: white;
   background-color: black;
-  padding-right: 20px;
+  position: sticky;
 }
 
 .CategoryList > h3 {
-  padding-left: 20px;
-  padding-right: 20px;
+  max-width: 165px;
+  min-width: 165px;
+  /* padding-left: 20px;
+  padding-right: 20px; */
 }

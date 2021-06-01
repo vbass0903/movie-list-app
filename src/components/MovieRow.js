@@ -1,11 +1,11 @@
 import Movie from './Movie'
 
 
-const MovieRow = ({ inMovies }) => {
+const MovieRow = ({ inMovies, onDelete }) => {
     return (
         <div>
             {inMovies.map((movie, index) => (
-                <Movie key={index} inMovie={movie}/>)
+                <Movie key={movie.imdbID} inMovie={movie} onDelete={onDelete}/>)
             )}
         </div>
     )

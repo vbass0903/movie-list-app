@@ -1,37 +1,124 @@
 {
   "movies": [
     {
-      "Title": "Memento Mori",
-      "Year": "2002",
-      "Rated": "N/A",
-      "Released": "N/A",
-      "Runtime": "15 min",
-      "Genre": "Short",
-      "Director": "José Roberto Torero",
-      "Writer": "José Roberto Torero",
-      "Actors": "Laura Cardoso, Paulo José, Carlos Mariano, Carlos Moreno",
-      "Plot": "Couple prepare their \"great voyage\" in all details, not forgetting the flowers, music and luggage.",
-      "Language": "Portuguese",
-      "Country": "Brazil",
-      "Awards": "5 wins.",
-      "Poster": "https://davidkoepp.com/wp-content/themes/blankslate/images/Movie%20Placeholder.jpg",
+      "Title": "Avatar",
+      "Year": "2009",
+      "Rated": "PG-13",
+      "Released": "18 Dec 2009",
+      "Runtime": "162 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "James Cameron",
+      "Writer": "James Cameron",
+      "Actors": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+      "Plot": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "Language": "English, Spanish",
+      "Country": "USA, UK",
+      "Awards": "Won 3 Oscars. Another 86 wins & 130 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.3/10"
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "82%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
         }
       ],
-      "Metascore": "N/A",
-      "imdbRating": "7.3",
-      "imdbVotes": "52",
-      "imdbID": "tt0340251",
+      "Metascore": "83",
+      "imdbRating": "7.8",
+      "imdbVotes": "1,134,555",
+      "imdbID": "tt0499549",
       "Type": "movie",
-      "DVD": "N/A",
-      "BoxOffice": "N/A",
-      "Production": "N/A",
+      "DVD": "10 Feb 2016",
+      "BoxOffice": "$760,507,625",
+      "Production": "Dune, Lightstorm Entertainment, Ingenious Film Partners",
       "Website": "N/A",
-      "Response": "True",
-      "id": 1
+      "Response": "True"
+    },
+    {
+      "Title": "The Grand Budapest Hotel",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "28 Mar 2014",
+      "Runtime": "99 min",
+      "Genre": "Adventure, Comedy, Crime",
+      "Director": "Wes Anderson",
+      "Writer": "Stefan Zweig (inspired by the writings of), Wes Anderson (screenplay), Wes Anderson (story), Hugo Guinness (story)",
+      "Actors": "Ralph Fiennes, F. Murray Abraham, Mathieu Amalric, Adrien Brody",
+      "Plot": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+      "Language": "English, French, German",
+      "Country": "Germany, USA",
+      "Awards": "Won 4 Oscars. Another 130 wins & 226 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "8.1",
+      "imdbVotes": "726,921",
+      "imdbID": "tt2278388",
+      "Type": "movie",
+      "DVD": "06 Dec 2015",
+      "BoxOffice": "$59,301,324",
+      "Production": "American Empirical Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Drive",
+      "Year": "2011",
+      "Rated": "R",
+      "Released": "16 Sep 2011",
+      "Runtime": "100 min",
+      "Genre": "Crime, Drama",
+      "Director": "Nicolas Winding Refn",
+      "Writer": "Hossein Amini (screenplay), James Sallis (book)",
+      "Actors": "Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks",
+      "Plot": "A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 79 wins & 179 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "7.8",
+      "imdbVotes": "582,044",
+      "imdbID": "tt0780504",
+      "Type": "movie",
+      "DVD": "07 May 2013",
+      "BoxOffice": "$35,061,555",
+      "Production": "Marc Platt Productions, Motel Movies",
+      "Website": "N/A",
+      "Response": "True"
     },
     {
       "Title": "Memento",
@@ -71,8 +158,7 @@
       "BoxOffice": "$25,544,867",
       "Production": "Team Todd, I Remember Productions, Llc, Newmarket Capital Group",
       "Website": "N/A",
-      "Response": "True",
-      "id": 2
+      "Response": "True"
     },
     {
       "Title": "Hereditary",
@@ -112,49 +198,7 @@
       "BoxOffice": "$44,069,456",
       "Production": "PalmStar Media",
       "Website": "N/A",
-      "Response": "True",
-      "id": 3
-    },
-    {
-      "Title": "Spirited Away",
-      "Year": "2001",
-      "Rated": "PG",
-      "Released": "28 Mar 2003",
-      "Runtime": "125 min",
-      "Genre": "Animation, Adventure, Family, Fantasy, Mystery",
-      "Director": "Hayao Miyazaki",
-      "Writer": "Hayao Miyazaki",
-      "Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
-      "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
-      "Language": "Japanese, English",
-      "Country": "Japan, USA",
-      "Awards": "Won 1 Oscar. Another 57 wins & 31 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.6/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "97%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "96/100"
-        }
-      ],
-      "Metascore": "96",
-      "imdbRating": "8.6",
-      "imdbVotes": "670,001",
-      "imdbID": "tt0245429",
-      "Type": "movie",
-      "DVD": "19 Dec 2019",
-      "BoxOffice": "$13,750,644",
-      "Production": "Walt Disney Pictures, Tokuma Shoten, Studio Ghibli",
-      "Website": "N/A",
-      "Response": "True",
-      "id": 4
+      "Response": "True"
     },
     {
       "Title": "Minari",
@@ -194,90 +238,87 @@
       "BoxOffice": "$2,964,816",
       "Production": "Plan B Entertainment",
       "Website": "N/A",
-      "Response": "True",
-      "id": 5
+      "Response": "True"
     },
     {
-      "Title": "Portrait of a Lady on Fire",
-      "Year": "2019",
+      "Title": "Dredd",
+      "Year": "2012",
       "Rated": "R",
-      "Released": "14 Feb 2020",
-      "Runtime": "122 min",
-      "Genre": "Drama, Romance",
-      "Director": "Céline Sciamma",
-      "Writer": "Céline Sciamma",
-      "Actors": "Noémie Merlant, Adèle Haenel, Luàna Bajrami, Valeria Golino",
-      "Plot": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
-      "Language": "French, Italian",
-      "Country": "France",
-      "Awards": "Nominated for 1 BAFTA Film Award. Another 57 wins & 152 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
-      "Ratings": [
-        {
-          "Source": "Internet Movie Database",
-          "Value": "8.1/10"
-        },
-        {
-          "Source": "Rotten Tomatoes",
-          "Value": "98%"
-        },
-        {
-          "Source": "Metacritic",
-          "Value": "95/100"
-        }
-      ],
-      "Metascore": "95",
-      "imdbRating": "8.1",
-      "imdbVotes": "70,955",
-      "imdbID": "tt8613070",
-      "Type": "movie",
-      "DVD": "03 Apr 2020",
-      "BoxOffice": "$3,759,854",
-      "Production": "Hold Up Films, arte France Cinéma",
-      "Website": "N/A",
-      "Response": "True",
-      "id": 6
-    },
-    {
-      "Title": "The Lighthouse",
-      "Year": "2019",
-      "Rated": "R",
-      "Released": "01 Nov 2019",
-      "Runtime": "109 min",
-      "Genre": "Drama, Fantasy, Horror, Mystery",
-      "Director": "Robert Eggers",
-      "Writer": "Robert Eggers, Max Eggers",
-      "Actors": "Robert Pattinson, Willem Dafoe, Valeriia Karaman, Logan Hawkes",
-      "Plot": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "Released": "21 Sep 2012",
+      "Runtime": "95 min",
+      "Genre": "Action, Crime, Sci-Fi",
+      "Director": "Pete Travis",
+      "Writer": "John Wagner ('Judge Dredd' created by), Carlos Ezquerra ('Judge Dredd' created by), Alex Garland (screenplay by)",
+      "Actors": "Karl Urban, Rachel Wood, Andile Mngadi, Porteus Xandau",
+      "Plot": "In a violent, futuristic city where the police have the authority to act as judge, jury and executioner, a cop teams with a trainee to take down a gang that deals the reality-altering drug, SLO-MO.",
       "Language": "English",
-      "Country": "Canada, USA, Brazil",
-      "Awards": "Nominated for 1 Oscar. Another 33 wins & 133 nominations.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Country": "UK, South Africa, USA, India",
+      "Awards": "2 wins & 14 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODkyNDQzMzUzOF5BMl5BanBnXkFtZTcwODYyMDEyOA@@._V1_SX300.jpg",
       "Ratings": [
         {
           "Source": "Internet Movie Database",
-          "Value": "7.5/10"
+          "Value": "7.1/10"
         },
         {
           "Source": "Rotten Tomatoes",
-          "Value": "90%"
+          "Value": "79%"
         },
         {
           "Source": "Metacritic",
-          "Value": "83/100"
+          "Value": "60/100"
         }
       ],
-      "Metascore": "83",
-      "imdbRating": "7.5",
-      "imdbVotes": "152,502",
-      "imdbID": "tt7984734",
+      "Metascore": "60",
+      "imdbRating": "7.1",
+      "imdbVotes": "257,372",
+      "imdbID": "tt1343727",
       "Type": "movie",
-      "DVD": "18 Oct 2019",
-      "BoxOffice": "$10,867,104",
-      "Production": "Harbor Picture Company, A24, Topsail Entertainment, RT Features",
+      "DVD": "02 Sep 2014",
+      "BoxOffice": "$13,414,714",
+      "Production": "DNA Films",
       "Website": "N/A",
-      "Response": "True",
-      "id": 7
+      "Response": "True"
+    },
+    {
+      "Title": "Spirited Away",
+      "Year": "2001",
+      "Rated": "PG",
+      "Released": "28 Mar 2003",
+      "Runtime": "125 min",
+      "Genre": "Animation, Adventure, Family, Fantasy, Mystery",
+      "Director": "Hayao Miyazaki",
+      "Writer": "Hayao Miyazaki",
+      "Actors": "Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô",
+      "Plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      "Language": "Japanese, English",
+      "Country": "Japan, USA",
+      "Awards": "Won 1 Oscar. Another 57 wins & 31 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "96/100"
+        }
+      ],
+      "Metascore": "96",
+      "imdbRating": "8.6",
+      "imdbVotes": "670,001",
+      "imdbID": "tt0245429",
+      "Type": "movie",
+      "DVD": "19 Dec 2019",
+      "BoxOffice": "$13,750,644",
+      "Production": "Walt Disney Pictures, Tokuma Shoten, Studio Ghibli",
+      "Website": "N/A",
+      "Response": "True"
     }
   ]
 }
