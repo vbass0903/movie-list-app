@@ -1,10 +1,13 @@
 import SearchArea from './SearchArea'
 import MovieTable from './MovieTable'
+import PlanMovieTable from './PlanMovieTable'
 import { useState, useEffect } from 'react'
 
 
-const Main = () => {
+const Main = ({ inScreen }) => {
     const [movies, setMovies] = useState([])
+    const [planMovies, setPlanMovies] = useState([])
+
     const [results, setResults] = useState([])
     const [searchText, setSearchText] = useState("")
 
@@ -15,15 +18,17 @@ const Main = () => {
     // Fetch movies from server on page load
     useEffect(() => {
       const getMovies = async () => {
-        const moviesFromServer = await fetchMovies()
+        const moviesFromServer = await fetchMovies("list")
         setMovies(moviesFromServer)
+        const planMoviesFromServer = await fetchMovies("plan")
+        setPlanMovies(planMoviesFromServer)
       }
       getMovies()
     }, [])
 
     // Fetch movies
-    const fetchMovies = async () => {
-      const res = await fetch('http://localhost:5000/movies')
+    const fetchMovies = async (screen) => {
+      const res = await fetch(`http://localhost:5000/${screen}Movies`)
       const data = await res.json()
   
       return data
@@ -66,42 +71,39 @@ const Main = () => {
       .then((response) => response.json())
       .then(async (data)  => {
         posterFix(data)
-        await fetch('http://localhost:5000/movies', {
+        await fetch(`http://localhost:5000/${inScreen}Movies`, {
           method: 'POST',
           headers: {
             'Content-type': 'application/json'
           },
           body: JSON.stringify(data)
         })
-        setMovies([...movies, data])
+        if (inScreen === "list") {
+          setMovies([...movies, data])
+        }
+        else {
+          setPlanMovies([...planMovies, data])
+        }
+        
       })
       setResults(results.filter((movie) => movie.imdbID !== movieID))
     }
 
     const deleteMovie = async (movieID) => {
-      await fetch(`http://localhost:5000/movies/${movieID}`, {
+      await fetch(`http://localhost:5000/${inScreen}Movies/${movieID}`, {
         method: 'DELETE'
         })
-        setMovies(movies.filter((movie) => movie.imdbID !== movieID))
+        if (inScreen === "list") {
+          setMovies(movies.filter((movie) => movie.imdbID !== movieID))
+        }
+        else {
+          setPlanMovies(planMovies.filter((movie) => movie.imdbID !== movieID))
+        }
+        
     }
 
-
-    // const sortName = (a, b, category) => {
-    //   var nameA = a.category.toUpperCase(); // ignore upper and lowercase
-    //   var nameB = b.category.toUpperCase(); // ignore upper and lowercase
-    //   if (nameA < nameB) {
-    //     return -1;
-    //   }
-    //   if (nameA > nameB) {
-    //     return 1;
-    //   }
-    
-    //   // names must be equal
-    //   return 0;
-    // }
-
     const sortMovies = async (category) => {
-      const tempMovies = await fetchMovies()
+      const tempMovies = await fetchMovies(inScreen)
       if (category === 'Title' || category === 'Director') {
         setMovies(tempMovies.sort(function(a, b) {
           var nameA = a[category].toUpperCase(); // ignore upper and lowercase
@@ -129,7 +131,9 @@ const Main = () => {
     return (
         <div className="Main">
             <SearchArea inResults={results} onChange={textFieldChange} onAdd={getMovieInfo} onSearch={search} />
-            <MovieTable inMovies={movies} onDelete={deleteMovie} onSort={sortMovies}/>
+            { inScreen === "list" ?
+              <MovieTable inMovies={movies} onDelete={deleteMovie} onSort={sortMovies}/> : <PlanMovieTable inMovies={planMovies} onDelete={deleteMovie} onSort={sortMovies}/> 
+            }
         </div>
     )
 }

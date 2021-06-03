@@ -2,12 +2,15 @@ import Button from '@material-ui/core/Button';
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 
 
-const LinkRow = () => {
+const LinkRow = ({ curScreen, onChange }) => {
     return (
         <ButtonGroup color="primary" aria-label="button group">
-            <Button>Plan to Watch</Button>
+            { curScreen === "list" ?
+                <Button onClick={() => onChange("plan")}>Plan to Watch</Button> :
+                <Button onClick={() => onChange("list")}>Movie List</Button>
+            }
+            
             <Button>Stats</Button>
-            {/* <Button>About</Button> */}
         </ButtonGroup>
     )
 }
