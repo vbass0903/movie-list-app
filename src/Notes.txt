@@ -1,0 +1,6 @@
+Known Bugs:
+(CategoryList.js) State in Category List is messy, probably a better way to do it
+(Main.js) Have to call fetchMovies() in sortMovies() to re render MovieTable
+
+Quality of Life:
+Being able to click on sorted category header and have it go back to unsorted

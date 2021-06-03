@@ -319,6 +319,86 @@
       "Production": "Walt Disney Pictures, Tokuma Shoten, Studio Ghibli",
       "Website": "N/A",
       "Response": "True"
+    },
+    {
+      "Title": "1917",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "10 Jan 2020",
+      "Runtime": "119 min",
+      "Genre": "Drama, Thriller, War",
+      "Director": "Sam Mendes",
+      "Writer": "Sam Mendes, Krysty Wilson-Cairns",
+      "Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays, Colin Firth",
+      "Plot": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+      "Language": "English, French, German",
+      "Country": "USA, UK, India, Spain, Canada, China",
+      "Awards": "Won 3 Oscars. Another 129 wins & 199 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "78/100"
+        }
+      ],
+      "Metascore": "78",
+      "imdbRating": "8.3",
+      "imdbVotes": "459,873",
+      "imdbID": "tt8579674",
+      "Type": "movie",
+      "DVD": "25 Dec 2019",
+      "BoxOffice": "$159,227,644",
+      "Production": "Neal Street Productions, Amblin Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Boyhood",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "15 Aug 2014",
+      "Runtime": "165 min",
+      "Genre": "Drama",
+      "Director": "Richard Linklater",
+      "Writer": "Richard Linklater",
+      "Actors": "Ellar Coltrane, Patricia Arquette, Elijah Smith, Lorelei Linklater",
+      "Plot": "The life of Mason, from early childhood to his arrival at college.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 172 wins & 218 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "7.9",
+      "imdbVotes": "339,119",
+      "imdbID": "tt1065073",
+      "Type": "movie",
+      "DVD": "07 Jan 2016",
+      "BoxOffice": "$25,352,281",
+      "Production": "Detour Filmproduction",
+      "Website": "N/A",
+      "Response": "True"
     }
   ]
 }

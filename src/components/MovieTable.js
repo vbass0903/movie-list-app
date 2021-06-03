@@ -1,10 +1,13 @@
 import CategoryList from './CategoryList'
 import MovieRow from './MovieRow'
 
-const MovieTable = ({ inMovies, onDelete }) => {
+
+const MovieTable = ({ inMovies, onDelete, onSort }) => {
+    // useEffect( () => {}, [inMovies])
+
     return (
         <div className="MovieTable">
-            <CategoryList />
+            <CategoryList onSort={onSort} />
             <MovieRow inMovies={inMovies} onDelete={onDelete}/>
         </div>
     )

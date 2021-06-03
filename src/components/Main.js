@@ -1,19 +1,12 @@
 import SearchArea from './SearchArea'
 import MovieTable from './MovieTable'
 import { useState, useEffect } from 'react'
-import moviePoster from './Memento_poster.jpg'
-import moviePoster2 from './2001SpaceOdyssey.jpg'
-import moviePoster3 from './Minari_(film).png'
-import moviePoster4 from './Hereditary.jfif'
-import moviePoster5 from './Soul_Poster.jpeg'
-import moviePoster6 from './1917.jpg'
 
 
 const Main = () => {
     const [movies, setMovies] = useState([])
     const [results, setResults] = useState([])
     const [searchText, setSearchText] = useState("")
-    const APIKEY = "ef50a47c9bmsh02413c615f333cfp1bee65jsnaa281abb3a5b"
 
     const textFieldChange = (e) => {
       setSearchText(e.target.value)
@@ -35,19 +28,6 @@ const Main = () => {
   
       return data
     }
-
-    const search2 = async () => {
-      console.log("clicked")
-      const res = await fetch('http://localhost:5000/movies')
-
-      .then((response) => response.json())
-      .then((data) => {
-        const searchResults = data
-        setResults(searchResults)
-      })
-    }
-
-
 
     const search = async () => {
       if (searchText.length > 0) {
@@ -76,7 +56,7 @@ const Main = () => {
     }
 
     const getMovieInfo = async (movieID) => {
-      const res = await fetch("https://movie-database-imdb-alternative.p.rapidapi.com/?i=" + movieID + "&r=json", {
+      await fetch("https://movie-database-imdb-alternative.p.rapidapi.com/?i=" + movieID + "&r=json", {
         "method": "GET",
         "headers": {
           "x-rapidapi-key": "e786be2e11msh733b0cf04d5f561p1b8ce3jsn82282c3ec453",
@@ -86,7 +66,7 @@ const Main = () => {
       .then((response) => response.json())
       .then(async (data)  => {
         posterFix(data)
-        const res = await fetch('http://localhost:5000/movies', {
+        await fetch('http://localhost:5000/movies', {
           method: 'POST',
           headers: {
             'Content-type': 'application/json'
@@ -103,12 +83,53 @@ const Main = () => {
         method: 'DELETE'
         })
         setMovies(movies.filter((movie) => movie.imdbID !== movieID))
+    }
+
+
+    // const sortName = (a, b, category) => {
+    //   var nameA = a.category.toUpperCase(); // ignore upper and lowercase
+    //   var nameB = b.category.toUpperCase(); // ignore upper and lowercase
+    //   if (nameA < nameB) {
+    //     return -1;
+    //   }
+    //   if (nameA > nameB) {
+    //     return 1;
+    //   }
+    
+    //   // names must be equal
+    //   return 0;
+    // }
+
+    const sortMovies = async (category) => {
+      const tempMovies = await fetchMovies()
+      if (category === 'Title' || category === 'Director') {
+        setMovies(tempMovies.sort(function(a, b) {
+          var nameA = a[category].toUpperCase(); // ignore upper and lowercase
+          var nameB = b[category].toUpperCase(); // ignore upper and lowercase
+          if (nameA < nameB) {
+            return -1;
+          }
+          if (nameA > nameB) {
+            return 1;
+          }
+        
+          // names must be equal
+          return 0;
+        }))
       }
+      if (category === 'Year') {
+        setMovies(tempMovies.sort(function (a, b) {
+          return a.Year - b.Year;
+        }))
+      }
+    }
+
+
 
     return (
         <div className="Main">
             <SearchArea inResults={results} onChange={textFieldChange} onAdd={getMovieInfo} onSearch={search} />
-            <MovieTable inMovies={movies} onDelete={deleteMovie}/>
+            <MovieTable inMovies={movies} onDelete={deleteMovie} onSort={sortMovies}/>
         </div>
     )
 }
