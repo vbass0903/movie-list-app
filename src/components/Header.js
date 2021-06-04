@@ -5,12 +5,12 @@ const Header = ({ curScreen, onChange }) => {
     return (
         <div className="Header">
             { curScreen === "list" ?
-                <Typography variant="h4" component="h1">
+                <h1 className="Banner">
                     Movie List
-                </Typography> :
-                <Typography variant="h4" component="h1">
+                </h1> :
+                <h1 className="Banner">
                     Plan To Watch
-                </Typography>
+                </h1>
             }
             
             <LinkRow curScreen={curScreen} onChange={onChange}/>

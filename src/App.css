@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Summit';
+  src: local('Summit'), url(fonts/Summit/Summit_OpenType/SummitBold-Display.otf) format('opentype');
+}
 .App {
   text-align: center;
 }
@@ -13,8 +17,8 @@
   /* border: 5px solid blue; */
   padding-left: 10%;
   padding-right: 5%;
-  padding-top: 1%;
-  padding-bottom: 1%;
+  /* padding-top: 1%;
+  padding-bottom: 1%; */
   
   /* background: rgb(131,58,180);
   background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(255,31,31,1) 40%, rgba(252,176,69,1) 100%); */
@@ -34,6 +38,10 @@
 	100% {
 		background-position: 0% 50%;
 	}
+}
+
+.Banner {
+  font-family: 'Summit'
 }
 
 .SearchArea {

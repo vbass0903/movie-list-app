@@ -441,6 +441,1034 @@
       "Production": "Detour Filmproduction",
       "Website": "N/A",
       "Response": "True"
+    },
+    {
+      "Title": "Tenet",
+      "Year": "2020",
+      "Rated": "PG-13",
+      "Released": "03 Sep 2020",
+      "Runtime": "150 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Christopher Nolan",
+      "Writer": "Christopher Nolan",
+      "Actors": "Juhan Ulfsak, Jefferson Hall, Ivo Uukkivi, Andrew Howard",
+      "Plot": "Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.",
+      "Language": "English, Russian, Ukrainian, Estonian, Norwegian, Hindi",
+      "Country": "UK, USA",
+      "Awards": "Won 1 Oscar. Another 40 wins & 131 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg0NGM2NjAtNmIxOC00MDJmLTg5ZmYtYzM0MTE4NWE2NzlhXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "70%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "69/100"
+        }
+      ],
+      "Metascore": "69",
+      "imdbRating": "7.4",
+      "imdbVotes": "351,925",
+      "imdbID": "tt6723592",
+      "Type": "movie",
+      "DVD": "15 Dec 2020",
+      "BoxOffice": "$58,456,624",
+      "Production": "Syncopy, Warner Bros. Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Soul",
+      "Year": "2020",
+      "Rated": "PG",
+      "Released": "25 Dec 2020",
+      "Runtime": "100 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Music",
+      "Director": "Pete Docter, Kemp Powers(co-director)",
+      "Writer": "Pete Docter (story by), Mike Jones (story & screenplay by), Kemp Powers (story by), Pete Docter (screenplay by), Kemp Powers (screenplay by)",
+      "Actors": "Jamie Foxx, Tina Fey, Graham Norton, Rachel House",
+      "Plot": "After landing the gig of a lifetime, a New York jazz pianist suddenly finds himself trapped in a strange land between Earth and the afterlife.",
+      "Language": "English, Korean, Inuktitut",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 106 wins & 95 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGE1MDg5M2MtNTkyZS00MTY5LTg1YzUtZTlhZmM1Y2EwNmFmXkEyXkFqcGdeQXVyNjA3OTI0MDc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "8.1",
+      "imdbVotes": "227,395",
+      "imdbID": "tt2948372",
+      "Type": "movie",
+      "DVD": "25 Dec 2020",
+      "BoxOffice": "N/A",
+      "Production": "Walt Disney Pictures, Pixar Animation Studios",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Seven Samurai",
+      "Year": "1954",
+      "Rated": "Not Rated",
+      "Released": "19 Nov 1956",
+      "Runtime": "207 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "Akira Kurosawa",
+      "Writer": "Akira Kurosawa (screenplay by), Shinobu Hashimoto (screenplay by), Hideo Oguni (screenplay by)",
+      "Actors": "Toshirô Mifune, Takashi Shimura, Keiko Tsushima, Yukiko Shimazaki",
+      "Plot": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "Nominated for 2 Oscars. Another 5 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "100%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "98/100"
+        }
+      ],
+      "Metascore": "98",
+      "imdbRating": "8.6",
+      "imdbVotes": "321,184",
+      "imdbID": "tt0047478",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "$318,649",
+      "Production": "Toho Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "To Kill a Mockingbird",
+      "Year": "1962",
+      "Rated": "Approved",
+      "Released": "16 Mar 1963",
+      "Runtime": "129 min",
+      "Genre": "Crime, Drama",
+      "Director": "Robert Mulligan",
+      "Writer": "Harper Lee (based on her novel \"To Kill a Mockingbird\"), Horton Foote (screenplay by)",
+      "Actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",
+      "Plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 11 wins & 16 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "92%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "88/100"
+        }
+      ],
+      "Metascore": "88",
+      "imdbRating": "8.2",
+      "imdbVotes": "296,825",
+      "imdbID": "tt0056592",
+      "Type": "movie",
+      "DVD": "21 Aug 2014",
+      "BoxOffice": "$592,237",
+      "Production": "Universal International Pictures, Brentwood Productions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Night of the Living Dead",
+      "Year": "1968",
+      "Rated": "Not Rated",
+      "Released": "04 Oct 1968",
+      "Runtime": "96 min",
+      "Genre": "Horror, Thriller",
+      "Director": "George A. Romero",
+      "Writer": "John A. Russo (screenplay), George A. Romero (screenplay)",
+      "Actors": "Duane Jones, Judith O'Dea, Karl Hardman, Marilyn Eastman",
+      "Plot": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "6 wins.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "7.9",
+      "imdbVotes": "118,346",
+      "imdbID": "tt0063350",
+      "Type": "movie",
+      "DVD": "13 Oct 2012",
+      "BoxOffice": "$236,452",
+      "Production": "Off Color Films, Image Ten, Market Square Productions, Laurel",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ikiru",
+      "Year": "1952",
+      "Rated": "Not Rated",
+      "Released": "25 Mar 1956",
+      "Runtime": "143 min",
+      "Genre": "Drama",
+      "Director": "Akira Kurosawa",
+      "Writer": "Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni",
+      "Actors": "Takashi Shimura, Shin'ichi Himori, Haruo Tanaka, Minoru Chiaki",
+      "Plot": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "Nominated for 1 BAFTA Film Award. Another 5 wins & 1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "70,128",
+      "imdbID": "tt0044741",
+      "Type": "movie",
+      "DVD": "10 Aug 2016",
+      "BoxOffice": "$60,239",
+      "Production": "Toho Company Ltd.",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Trip to the Moon",
+      "Year": "1902",
+      "Rated": "TV-G",
+      "Released": "04 Oct 1902",
+      "Runtime": "13 min",
+      "Genre": "Short, Adventure, Comedy, Fantasy, Sci-Fi",
+      "Director": "Georges Méliès",
+      "Writer": "N/A",
+      "Actors": "Victor André, Bleuette Bernon, Brunnet, Jehanne d'Alcy",
+      "Plot": "A group of astronomers go on an expedition to the Moon.",
+      "Language": "None, French",
+      "Country": "France",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyYzhlMzctYjg1NS00ODJlLTkxOTUtYmQ4YjgxMWY5MGFlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "45,021",
+      "imdbID": "tt0000417",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Psycho",
+      "Year": "1960",
+      "Rated": "R",
+      "Released": "08 Sep 1960",
+      "Runtime": "109 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Alfred Hitchcock",
+      "Writer": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+      "Actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+      "Plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 8 wins & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "97/100"
+        }
+      ],
+      "Metascore": "97",
+      "imdbRating": "8.5",
+      "imdbVotes": "614,911",
+      "imdbID": "tt0054215",
+      "Type": "movie",
+      "DVD": "12 Feb 2014",
+      "BoxOffice": "$32,000,000",
+      "Production": "Paramount",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "American Psycho",
+      "Year": "2000",
+      "Rated": "R",
+      "Released": "14 Apr 2000",
+      "Runtime": "101 min",
+      "Genre": "Comedy, Crime, Drama",
+      "Director": "Mary Harron",
+      "Writer": "Bret Easton Ellis (novel), Mary Harron (screenplay), Guinevere Turner (screenplay)",
+      "Actors": "Christian Bale, Justin Theroux, Josh Lucas, Bill Sage",
+      "Plot": "A wealthy New York City investment banking executive, Patrick Bateman, hides his alternate psychopathic ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.",
+      "Language": "English, Spanish, Cantonese",
+      "Country": "USA, Canada",
+      "Awards": "8 wins & 13 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "69%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "64/100"
+        }
+      ],
+      "Metascore": "64",
+      "imdbRating": "7.6",
+      "imdbVotes": "506,411",
+      "imdbID": "tt0144084",
+      "Type": "movie",
+      "DVD": "15 Dec 2015",
+      "BoxOffice": "$15,070,285",
+      "Production": "P.P.S. Films, Lions Gate Entertainment, Edward R. Pressman Film Corp., Muse Productions, Quadra Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "A Clockwork Orange",
+      "Year": "1971",
+      "Rated": "R",
+      "Released": "02 Feb 1972",
+      "Runtime": "136 min",
+      "Genre": "Crime, Drama, Sci-Fi",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stanley Kubrick (screenplay), Anthony Burgess (novel)",
+      "Actors": "Malcolm McDowell, Patrick Magee, Michael Bates, Warren Clarke",
+      "Plot": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "Nominated for 4 Oscars. Another 12 wins & 20 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "86%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "77/100"
+        }
+      ],
+      "Metascore": "77",
+      "imdbRating": "8.3",
+      "imdbVotes": "769,363",
+      "imdbID": "tt0066921",
+      "Type": "movie",
+      "DVD": "15 Aug 2008",
+      "BoxOffice": "$26,589,355",
+      "Production": "Warner Brothers, Polaris Productions, Hawk Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Godfather",
+      "Year": "1972",
+      "Rated": "R",
+      "Released": "24 Mar 1972",
+      "Runtime": "175 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Mario Puzo (screenplay by), Francis Ford Coppola (screenplay by), Mario Puzo (based on the novel by)",
+      "Actors": "Marlon Brando, Al Pacino, James Caan, Richard S. Castellano",
+      "Plot": "An organized crime dynasty's aging patriarch transfers control of his clandestine empire to his reluctant son.",
+      "Language": "English, Italian, Latin",
+      "Country": "USA",
+      "Awards": "Won 3 Oscars. Another 29 wins & 30 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "100/100"
+        }
+      ],
+      "Metascore": "100",
+      "imdbRating": "9.2",
+      "imdbVotes": "1,657,705",
+      "imdbID": "tt0068646",
+      "Type": "movie",
+      "DVD": "01 Aug 2013",
+      "BoxOffice": "$134,966,411",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Godfather: Part II",
+      "Year": "1974",
+      "Rated": "R",
+      "Released": "18 Dec 1974",
+      "Runtime": "202 min",
+      "Genre": "Crime, Drama",
+      "Director": "Francis Ford Coppola",
+      "Writer": "Francis Ford Coppola (screenplay by), Mario Puzo (screenplay by), Mario Puzo (based on the novel by)",
+      "Actors": "Al Pacino, Robert Duvall, Diane Keaton, Robert De Niro",
+      "Plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "Language": "English, Italian, Spanish, Latin, Sicilian",
+      "Country": "USA",
+      "Awards": "Won 6 Oscars. Another 11 wins & 20 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "90/100"
+        }
+      ],
+      "Metascore": "90",
+      "imdbRating": "9.0",
+      "imdbVotes": "1,152,413",
+      "imdbID": "tt0071562",
+      "Type": "movie",
+      "DVD": "01 Aug 2013",
+      "BoxOffice": "$47,834,595",
+      "Production": "Paramount Pictures, Coppola Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Wicker Man",
+      "Year": "1973",
+      "Rated": "R",
+      "Released": "07 Aug 1974",
+      "Runtime": "88 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Robin Hardy",
+      "Writer": "Anthony Shaffer (screenplay)",
+      "Actors": "Edward Woodward, Christopher Lee, Diane Cilento, Britt Ekland",
+      "Plot": "A puritan Police Sergeant arrives in a Scottish island village in search of a missing girl who the locals claim never existed.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "2 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIzY2QyNDQtOWI3Ni00MjEwLTlhYTgtZTgyMThiY2JkMTY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "87/100"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "7.5",
+      "imdbVotes": "71,659",
+      "imdbID": "tt0070917",
+      "Type": "movie",
+      "DVD": "06 Oct 2016",
+      "BoxOffice": "$60,891",
+      "Production": "British Lion Film Corporation",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Exorcist",
+      "Year": "1973",
+      "Rated": "R",
+      "Released": "26 Dec 1973",
+      "Runtime": "122 min",
+      "Genre": "Horror",
+      "Director": "William Friedkin",
+      "Writer": "William Peter Blatty",
+      "Actors": "Ellen Burstyn, Max von Sydow, Linda Blair",
+      "Plot": "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.",
+      "Language": "English, Latin, Greek, French, German, Arabic, Kurdish",
+      "Country": "United States",
+      "Awards": "Won 2 Oscars. 16 wins & 17 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.0",
+      "imdbVotes": "367,532",
+      "imdbID": "tt0070047",
+      "Type": "movie",
+      "DVD": "24 Jul 2014",
+      "BoxOffice": "$232,906,145",
+      "Production": "Warner Brothers, Hoya Productions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Taxi Driver",
+      "Year": "1976",
+      "Rated": "R",
+      "Released": "09 Feb 1976",
+      "Runtime": "114 min",
+      "Genre": "Crime, Drama",
+      "Director": "Martin Scorsese",
+      "Writer": "Paul Schrader",
+      "Actors": "Diahnne Abbott, Frank Adu, Victor Argo, Gino Ardito",
+      "Plot": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 4 Oscars. Another 22 wins & 16 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "96%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.3",
+      "imdbVotes": "740,541",
+      "imdbID": "tt0075314",
+      "Type": "movie",
+      "DVD": "06 Dec 2013",
+      "BoxOffice": "$28,262,574",
+      "Production": "Columbia Pictures, Italo/Judeo Productions, Bill/Phillips",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Dawn of the Dead",
+      "Year": "1978",
+      "Rated": "Unrated",
+      "Released": "24 May 1979",
+      "Runtime": "127 min",
+      "Genre": "Horror, Thriller",
+      "Director": "George A. Romero",
+      "Writer": "George A. Romero",
+      "Actors": "David Emge, Ken Foree, Scott H. Reiniger, Gaylen Ross",
+      "Plot": "Following an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia S.W.A.T. team members, a traffic reporter, and his television executive girlfriend seek refuge in a secluded shopping mall.",
+      "Language": "English, Spanish",
+      "Country": "USA, Italy",
+      "Awards": "2 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "94%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.9",
+      "imdbVotes": "113,055",
+      "imdbID": "tt0077402",
+      "Type": "movie",
+      "DVD": "16 Mar 2004",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Warriors",
+      "Year": "1979",
+      "Rated": "R",
+      "Released": "09 Feb 1979",
+      "Runtime": "92 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Walter Hill",
+      "Writer": "Sol Yurick (based on the novel by), David Shaber (screenplay by), Walter Hill (screenplay by)",
+      "Actors": "Michael Beck, James Remar, Dorsey Wright, Brian Tyler",
+      "Plot": "In the near future, a charismatic leader summons the street gangs of New York City in a bid to take it over. When he is killed, The Warriors are falsely blamed and now must fight their way home while every other gang is hunting them down.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTU2MWRiMTMtYzAzZi00NGYzLTlkMDEtNWQ3MzZlNTJlNzZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "65/100"
+        }
+      ],
+      "Metascore": "65",
+      "imdbRating": "7.6",
+      "imdbVotes": "95,475",
+      "imdbID": "tt0080120",
+      "Type": "movie",
+      "DVD": "01 Aug 2013",
+      "BoxOffice": "$22,490,039",
+      "Production": "Paramount Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Apocalypse Now",
+      "Year": "1979",
+      "Rated": "R",
+      "Released": "15 Aug 1979",
+      "Runtime": "147 min",
+      "Genre": "Drama, Mystery, War",
+      "Director": "Francis Ford Coppola",
+      "Writer": "John Milius, Francis Ford Coppola, Michael Herr (narration)",
+      "Actors": "Marlon Brando, Martin Sheen, Robert Duvall, Frederic Forrest",
+      "Plot": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+      "Language": "English, French, Vietnamese",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 19 wins & 32 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.4",
+      "imdbVotes": "616,883",
+      "imdbID": "tt0078788",
+      "Type": "movie",
+      "DVD": "19 Nov 2015",
+      "BoxOffice": "$83,471,511",
+      "Production": "Zoetrope Studios",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Raging Bull",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "19 Dec 1980",
+      "Runtime": "129 min",
+      "Genre": "Biography, Drama, Sport",
+      "Director": "Martin Scorsese",
+      "Writer": "Jake LaMotta (based on the book by), Joseph Carter (with), Peter Savage (with), Paul Schrader (screenplay), Mardik Martin (screenplay)",
+      "Actors": "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",
+      "Plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 2 Oscars. Another 22 wins & 28 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "93%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "89/100"
+        }
+      ],
+      "Metascore": "89",
+      "imdbRating": "8.2",
+      "imdbVotes": "326,193",
+      "imdbID": "tt0081398",
+      "Type": "movie",
+      "DVD": "25 Nov 2016",
+      "BoxOffice": "$23,383,987",
+      "Production": "United Artists, Chartoff-Winkler Productions",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Shining",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "13 Jun 1980",
+      "Runtime": "146 min",
+      "Genre": "Drama, Horror",
+      "Director": "Stanley Kubrick",
+      "Writer": "Stephen King (based upon the novel by), Stanley Kubrick (screenplay by), Diane Johnson (screenplay by)",
+      "Actors": "Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers",
+      "Plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "Language": "English",
+      "Country": "UK, USA",
+      "Awards": "4 wins & 8 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "66/100"
+        }
+      ],
+      "Metascore": "66",
+      "imdbRating": "8.4",
+      "imdbVotes": "914,386",
+      "imdbID": "tt0081505",
+      "Type": "movie",
+      "DVD": "15 Aug 2008",
+      "BoxOffice": "$45,332,952",
+      "Production": "Producers Circle, Warner Brothers, Peregrine, Hawk Films",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "The Thing",
+      "Year": "1982",
+      "Rated": "R",
+      "Released": "25 Jun 1982",
+      "Runtime": "109 min",
+      "Genre": "Horror, Mystery, Sci-Fi",
+      "Director": "John Carpenter",
+      "Writer": "Bill Lancaster (screenplay), John W. Campbell Jr. (story)",
+      "Actors": "Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon",
+      "Plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+      "Language": "English, Norwegian",
+      "Country": "USA",
+      "Awards": "3 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "8.1",
+      "imdbVotes": "378,641",
+      "imdbID": "tt0084787",
+      "Type": "movie",
+      "DVD": "15 Jun 2012",
+      "BoxOffice": "$19,629,760",
+      "Production": "Universal Pictures, Turman-Foster Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Blade Runner",
+      "Year": "1982",
+      "Rated": "R",
+      "Released": "25 Jun 1982",
+      "Runtime": "117 min",
+      "Genre": "Action, Sci-Fi, Thriller",
+      "Director": "Ridley Scott",
+      "Writer": "Hampton Fancher (screenplay), David Webb Peoples (screenplay), Philip K. Dick (novel)",
+      "Actors": "Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos",
+      "Plot": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+      "Language": "English, German, Cantonese, Japanese, Hungarian, Arabic, Korean",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 12 wins & 17 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "84/100"
+        }
+      ],
+      "Metascore": "84",
+      "imdbRating": "8.1",
+      "imdbVotes": "704,893",
+      "imdbID": "tt0083658",
+      "Type": "movie",
+      "DVD": "15 Nov 2016",
+      "BoxOffice": "$32,868,943",
+      "Production": "Blade Runner Partnership, Ladd Company",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Blade Runner 2049",
+      "Year": "2017",
+      "Rated": "R",
+      "Released": "06 Oct 2017",
+      "Runtime": "164 min",
+      "Genre": "Action, Drama, Mystery, Sci-Fi, Thriller",
+      "Director": "Denis Villeneuve",
+      "Writer": "Hampton Fancher (screenplay by), Michael Green (screenplay by), Hampton Fancher (story by), Philip K. Dick (based on characters from the novel \"Do Androids Dream of Electric Sheep?\" by)",
+      "Actors": "Ryan Gosling, Dave Bautista, Robin Wright, Mark Arnold",
+      "Plot": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+      "Language": "English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",
+      "Country": "USA, UK, Canada, Hungary, Spain, Mexico",
+      "Awards": "Won 2 Oscars. Another 97 wins & 156 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "81/100"
+        }
+      ],
+      "Metascore": "81",
+      "imdbRating": "8.0",
+      "imdbVotes": "478,126",
+      "imdbID": "tt1856101",
+      "Type": "movie",
+      "DVD": "26 Dec 2017",
+      "BoxOffice": "$92,054,159",
+      "Production": "Torridon Films, Scott Free Productions, Bud Yorkin Productions, Alcon Entertainment, 16:14 Entertainment",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Videodrome",
+      "Year": "1983",
+      "Rated": "R",
+      "Released": "04 Feb 1983",
+      "Runtime": "87 min",
+      "Genre": "Horror, Sci-Fi, Thriller",
+      "Director": "David Cronenberg",
+      "Writer": "David Cronenberg",
+      "Actors": "James Woods, Sonja Smits, Debbie Harry, Peter Dvorsky",
+      "Plot": "A programmer at a TV station that specializes in adult entertainment searches for the producers of a dangerous and bizarre broadcast.",
+      "Language": "English",
+      "Country": "Canada, USA",
+      "Awards": "3 wins & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzdlNDk0YTMtNWJjOS00NzhlLThiOTAtZDUyOWNkNDQ2NmU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "78%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "60/100"
+        }
+      ],
+      "Metascore": "60",
+      "imdbRating": "7.2",
+      "imdbVotes": "85,166",
+      "imdbID": "tt0086541",
+      "Type": "movie",
+      "DVD": "19 Apr 2016",
+      "BoxOffice": "$2,120,439",
+      "Production": "Universal Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Nausicaä of the Valley of the Wind",
+      "Year": "1984",
+      "Rated": "PG",
+      "Released": "25 Nov 1987",
+      "Runtime": "117 min",
+      "Genre": "Animation, Adventure, Fantasy, Sci-Fi",
+      "Director": "Hayao Miyazaki",
+      "Writer": "Hayao Miyazaki (based on the manga by), Hayao Miyazaki (screenplay by), Cindy Davis (english language adaptation), Donald H. Hewitt (english language adaptation)",
+      "Actors": "Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda, Gorô Naya",
+      "Plot": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+      "Language": "Japanese",
+      "Country": "Japan",
+      "Awards": "4 wins & 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZTI3NmJmYTQtNDg4NS00M2VlLTgzZDAtZWIwZDcyOWY5YzIzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "89%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "86/100"
+        }
+      ],
+      "Metascore": "86",
+      "imdbRating": "8.1",
+      "imdbVotes": "154,922",
+      "imdbID": "tt0087544",
+      "Type": "movie",
+      "DVD": "17 Dec 2019",
+      "BoxOffice": "$495,770",
+      "Production": "Studio Ghibli",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Ghostbusters",
+      "Year": "1984",
+      "Rated": "PG",
+      "Released": "08 Jun 1984",
+      "Runtime": "105 min",
+      "Genre": "Action, Comedy, Fantasy, Sci-Fi",
+      "Director": "Ivan Reitman",
+      "Writer": "Dan Aykroyd, Harold Ramis",
+      "Actors": "Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis",
+      "Plot": "Three former parapsychology professors set up shop as a unique ghost removal service.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Oscars. Another 7 wins & 6 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxMjYyNzgwMl5BMl5BanBnXkFtZTgwMTE3MjYyMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "97%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "71/100"
+        }
+      ],
+      "Metascore": "71",
+      "imdbRating": "7.8",
+      "imdbVotes": "361,363",
+      "imdbID": "tt0087332",
+      "Type": "movie",
+      "DVD": "16 Apr 2012",
+      "BoxOffice": "$243,187,079",
+      "Production": "Columbia Pictures, Black Rhino Productions",
+      "Website": "N/A",
+      "Response": "True"
     }
   ]
 }

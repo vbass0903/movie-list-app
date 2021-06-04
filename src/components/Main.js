@@ -2,6 +2,7 @@ import SearchArea from './SearchArea'
 import MovieTable from './MovieTable'
 import PlanMovieTable from './PlanMovieTable'
 import { useState, useEffect } from 'react'
+import Stats from './Stats'
 
 
 const Main = ({ inScreen }) => {
@@ -30,6 +31,7 @@ const Main = ({ inScreen }) => {
     const fetchMovies = async (screen) => {
       const res = await fetch(`http://localhost:5000/${screen}Movies`)
       const data = await res.json()
+      console.log(data)
   
       return data
     }
@@ -119,9 +121,14 @@ const Main = ({ inScreen }) => {
           return 0;
         }))
       }
-      if (category === 'Year') {
+      else if (category === 'Year') {
         setMovies(tempMovies.sort(function (a, b) {
           return a.Year - b.Year;
+        }))
+      }
+      else if (category === 'Metascore') {
+        setMovies(tempMovies.sort(function (a, b) {
+          return b.Metascore - a.Metascore;
         }))
       }
     }
@@ -132,7 +139,10 @@ const Main = ({ inScreen }) => {
         <div className="Main">
             <SearchArea inResults={results} onChange={textFieldChange} onAdd={getMovieInfo} onSearch={search} />
             { inScreen === "list" ?
-              <MovieTable inMovies={movies} onDelete={deleteMovie} onSort={sortMovies}/> : <PlanMovieTable inMovies={planMovies} onDelete={deleteMovie} onSort={sortMovies}/> 
+              <MovieTable inMovies={movies} onDelete={deleteMovie} onSort={sortMovies}/> : 
+              inScreen === "plan" ?
+              <PlanMovieTable inMovies={planMovies} onDelete={deleteMovie} onSort={sortMovies}/> :
+              <Stats inMovies={movies} inPlanMovies={planMovies}/>
             }
         </div>
     )

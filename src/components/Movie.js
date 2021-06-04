@@ -18,6 +18,7 @@ const Movie = ( { inMovie, onDelete }) => {
     const genres = inMovie.Genre.split(",")
     const directors = inMovie.Director.split(",")
     const actors = inMovie.Actors.split(",")
+    const langs = inMovie.Language.split(",")
     return (
         <div className="Movie">
             <img src={inMovie.Poster} alt="Movie Poster"></img>
@@ -38,6 +39,12 @@ const Movie = ( { inMovie, onDelete }) => {
                     <Text key={index} inText={actor}/>)
                 )}
             </div>
+            {/* <div className="DataList">
+                {langs.map((lang, index) => (
+                    <Text key={index} inText={lang}/>)
+                )}
+            </div> */}
+            <h4>{inMovie.Metascore}</h4>
             <IconButton  className={classes.root} color="default" onClick={() => onDelete(inMovie.imdbID)} aria-label="delete">
                 <DeleteIcon size="large"/>
             </IconButton>

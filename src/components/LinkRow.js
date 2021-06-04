@@ -10,7 +10,7 @@ const LinkRow = ({ curScreen, onChange }) => {
                 <Button onClick={() => onChange("list")}>Movie List</Button>
             }
             
-            <Button>Stats</Button>
+            {/* <Button onClick={() => onChange("stat")}>Stats</Button> */}
         </ButtonGroup>
     )
 }
