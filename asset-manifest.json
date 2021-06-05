@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/movie-list-app/static/css/main.cd564061.chunk.css",
-    "main.js": "/movie-list-app/static/js/main.6b77d39e.chunk.js",
-    "main.js.map": "/movie-list-app/static/js/main.6b77d39e.chunk.js.map",
-    "runtime-main.js": "/movie-list-app/static/js/runtime-main.9c28f098.js",
-    "runtime-main.js.map": "/movie-list-app/static/js/runtime-main.9c28f098.js.map",
-    "static/js/2.b66b2014.chunk.js": "/movie-list-app/static/js/2.b66b2014.chunk.js",
-    "static/js/2.b66b2014.chunk.js.map": "/movie-list-app/static/js/2.b66b2014.chunk.js.map",
-    "static/js/3.2ae09a1d.chunk.js": "/movie-list-app/static/js/3.2ae09a1d.chunk.js",
-    "static/js/3.2ae09a1d.chunk.js.map": "/movie-list-app/static/js/3.2ae09a1d.chunk.js.map",
+    "main.css": "/movie-list-app/static/css/main.ea60060a.chunk.css",
+    "main.js": "/movie-list-app/static/js/main.7ff908d6.chunk.js",
+    "main.js.map": "/movie-list-app/static/js/main.7ff908d6.chunk.js.map",
+    "runtime-main.js": "/movie-list-app/static/js/runtime-main.0ace4e39.js",
+    "runtime-main.js.map": "/movie-list-app/static/js/runtime-main.0ace4e39.js.map",
+    "static/js/2.240beb21.chunk.js": "/movie-list-app/static/js/2.240beb21.chunk.js",
+    "static/js/2.240beb21.chunk.js.map": "/movie-list-app/static/js/2.240beb21.chunk.js.map",
+    "static/js/3.74909aac.chunk.js": "/movie-list-app/static/js/3.74909aac.chunk.js",
+    "static/js/3.74909aac.chunk.js.map": "/movie-list-app/static/js/3.74909aac.chunk.js.map",
     "index.html": "/movie-list-app/index.html",
-    "static/css/main.cd564061.chunk.css.map": "/movie-list-app/static/css/main.cd564061.chunk.css.map",
-    "static/js/2.b66b2014.chunk.js.LICENSE.txt": "/movie-list-app/static/js/2.b66b2014.chunk.js.LICENSE.txt",
-    "static/media/1917.06aef830.jpg": "/movie-list-app/static/media/1917.06aef830.jpg",
-    "static/media/2001SpaceOdyssey.83f7c178.jpg": "/movie-list-app/static/media/2001SpaceOdyssey.83f7c178.jpg",
-    "static/media/Hereditary.132d970d.jfif": "/movie-list-app/static/media/Hereditary.132d970d.jfif",
+    "static/css/main.ea60060a.chunk.css.map": "/movie-list-app/static/css/main.ea60060a.chunk.css.map",
+    "static/js/2.240beb21.chunk.js.LICENSE.txt": "/movie-list-app/static/js/2.240beb21.chunk.js.LICENSE.txt",
     "static/media/Memento_poster.477caece.jpg": "/movie-list-app/static/media/Memento_poster.477caece.jpg",
-    "static/media/Minari_(film).18ec96ca.png": "/movie-list-app/static/media/Minari_(film).18ec96ca.png",
-    "static/media/Soul_Poster.4aceab00.jpeg": "/movie-list-app/static/media/Soul_Poster.4aceab00.jpeg"
+    "static/media/App.css": "/movie-list-app/static/media/SummitBold-Display.bb0ab9e7.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c28f098.js",
-    "static/js/2.b66b2014.chunk.js",
-    "static/css/main.cd564061.chunk.css",
-    "static/js/main.6b77d39e.chunk.js"
+    "static/js/runtime-main.0ace4e39.js",
+    "static/js/2.240beb21.chunk.js",
+    "static/css/main.ea60060a.chunk.css",
+    "static/js/main.7ff908d6.chunk.js"
   ]
 }
