@@ -1469,6 +1469,126 @@
       "Production": "Columbia Pictures, Black Rhino Productions",
       "Website": "N/A",
       "Response": "True"
+    },
+    {
+      "Title": "Inside Out",
+      "Year": "2015",
+      "Rated": "PG",
+      "Released": "19 Jun 2015",
+      "Runtime": "95 min",
+      "Genre": "Animation, Adventure, Comedy, Drama, Family, Fantasy",
+      "Director": "Pete Docter, Ronnie Del Carmen(co-director)",
+      "Writer": "Pete Docter (original story by), Ronnie Del Carmen (original story by), Pete Docter (screenplay by), Meg LeFauve (screenplay by), Josh Cooley (screenplay by), Michael Arndt (additional story material by), Simon Rich (additional story material by), Bill Hader (additional dialogue by), Amy Poehler (additional dialogue by)",
+      "Actors": "Amy Poehler, Phyllis Smith, Richard Kind, Bill Hader",
+      "Plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+      "Language": "English, Portuguese",
+      "Country": "USA",
+      "Awards": "Won 1 Oscar. Another 99 wins & 116 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "98%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "94/100"
+        }
+      ],
+      "Metascore": "94",
+      "imdbRating": "8.1",
+      "imdbVotes": "632,946",
+      "imdbID": "tt2096673",
+      "Type": "movie",
+      "DVD": "03 Nov 2015",
+      "BoxOffice": "$356,921,711",
+      "Production": "Pixar Animation Studios, Walt Disney Pictures",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Coraline",
+      "Year": "2009",
+      "Rated": "PG",
+      "Released": "06 Feb 2009",
+      "Runtime": "100 min",
+      "Genre": "Animation, Drama, Family, Fantasy, Thriller",
+      "Director": "Henry Selick",
+      "Writer": "Henry Selick (screenplay), Neil Gaiman (book)",
+      "Actors": "Dakota Fanning, Teri Hatcher, Jennifer Saunders, Dawn French",
+      "Plot": "An adventurous 11-year-old girl finds another world that is a strangely idealized version of her frustrating home, but it has sinister secrets.",
+      "Language": "English, Russian",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Oscar. Another 8 wins & 45 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "90%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.7",
+      "imdbVotes": "201,199",
+      "imdbID": "tt0327597",
+      "Type": "movie",
+      "DVD": "12 Feb 2014",
+      "BoxOffice": "$75,286,229",
+      "Production": "Laika",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Waves",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "15 Nov 2019",
+      "Runtime": "135 min",
+      "Genre": "Drama, Romance, Sport",
+      "Director": "Trey Edward Shults",
+      "Writer": "Trey Edward Shults",
+      "Actors": "Kelvin Harrison Jr., Lucas Hedges, Taylor Russell, Alexa Demie",
+      "Plot": "Traces the journey of a suburban family - led by a well-intentioned but domineering father - as they navigate love, forgiveness, and coming together in the aftermath of a loss.",
+      "Language": "English",
+      "Country": "USA, Canada",
+      "Awards": "14 wins & 41 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWE2OTdiY2MtM2ViNy00NmExLWIxZjYtYTVkNGJkNzgwYjVmXkEyXkFqcGdeQXVyNjgzMjQ0MTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "84%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "80/100"
+        }
+      ],
+      "Metascore": "80",
+      "imdbRating": "7.6",
+      "imdbVotes": "19,018",
+      "imdbID": "tt8652728",
+      "Type": "movie",
+      "DVD": "15 Nov 2019",
+      "BoxOffice": "$1,658,790",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
     }
   ]
 }
